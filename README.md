@@ -1,5 +1,5 @@
 ## ecosystem
-goofy ahh ERP system which I probably won't finish
+an attempt at an ERP system
 
 to start database (u need a mysql/mariadb):
 ```
